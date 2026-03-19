@@ -1,5 +1,17 @@
-# ImageEdit
+# Simple Python Image Editor
 
-edit an image of a koala
+A CLI-based image processing tool built with Python and the Pillow library. This editor allows users to apply common filters and transformations to images quickly via the terminal !!
 
-still in development, sorry
+## Features
+* **Black & White:** Convert color images to grayscale.
+* **Blur:** Apply a standard Gaussian blur.
+* **Flip:** Mirror the image horizontally.
+* **Rotate:** Rotate the image 180 degrees.
+* **Contrast:** Adjust the contrast level using custom multipliers.
+* **Dynamic Saving:** Automatically saves edited files named after the filter applied (e.g., `blur.jpg`).
+
+## Prerequisites
+Before running the script, ensure you have Python installed and the **Pillow** library.
+
+```bash
+pip install Pillow
