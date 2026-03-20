@@ -4,11 +4,7 @@
 
 
 
-zolarian race race
-
-cool cooooll
-
-gooooofff
+ticky is N alien comingf rom the universeo
 A CLI-based image processing tool built with Python and the Pillow library. This editor allows users to apply common filters and transformations to images quickly via the terminal !!
 
 ## Features To Try !!
