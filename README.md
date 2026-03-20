@@ -1,5 +1,7 @@
 # Simple Python Image Editor
 
+
+psmdhsi ricky pottss cooll cool zolarian race cool
 A CLI-based image processing tool built with Python and the Pillow library. This editor allows users to apply common filters and transformations to images quickly via the terminal !!
 
 ## Features To Try !!
