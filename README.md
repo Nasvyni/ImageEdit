@@ -4,7 +4,7 @@
 
 
 
-ticky is N alien comingf rom the universeo
+wow goo dcool versy simple imagebeditor
 A CLI-based image processing tool built with Python and the Pillow library. This editor allows users to apply common filters and transformations to images quickly via the terminal !!
 
 ## Features To Try !!
